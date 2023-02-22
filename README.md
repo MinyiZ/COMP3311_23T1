@@ -1,1 +1,3 @@
-# COMP3311_23T1
+# COMP3311 23T1
+
+Recordings can be found on Blackboard Collaborate

@@ -1,0 +1,42 @@
+
+Project (title)
+
+Researcher(staffid)
+
+WorksOn(project, researcher, time)
+
+Projects
+--------
+projectA       
+projectB      
+
+Reasearcher
+------------
+RA
+RB
+
+WorksOn
+--------
+projectA  RA  1
+projectA  RB  1
+projectB  RA  1
+
+
+Person(name)
+------
+p1
+p2
+p3
+
+
+Addresses(id, address)
+---------
+1 4/13 John st, NSW 2000
+2 1/13 John st, NSW 2000
+3 2/13 John st, NSW 2000
+
+LivesAt
+--------
+p1 1
+p2 1
+p3 2  
