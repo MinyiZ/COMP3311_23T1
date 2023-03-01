@@ -1,0 +1,20 @@
+COMP3311 W3 Tutorial
+===========================================================
+
+Notices
+-------
+
+- Assignment 1 partially released
+    - get familiar with DB
+    - keep up with any spec updates
+- set up your Postgres Server on CSE servers ASAP
+    - required to test your Assignment 1 queries
+- Quiz 2 due Friday 11:59pm
+- tutorial recording on bbcollab
+
+
+Today
+------
+ER -> relational
+ER -> SQL
+Prac Exercise 03
