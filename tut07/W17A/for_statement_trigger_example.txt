@@ -1,0 +1,16 @@
+('customerA', 'sales', 1000)
+('customerA', 'hr', 1000)
+('customerA', 'engineering', 2000)
+
+update set remaining_balance_to_pay=0 where customer='customerA';
+
+('mzhong', '2022-01-01 09:00:00')
+
+Bills(customer, amount_to_pay, department, remaining_balance_to_pay)
+Audit(user, timestamp)
+
+create trigger audit_change
+after update or delete or insert
+on Bills
+for statement row
+execute  

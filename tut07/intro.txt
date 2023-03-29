@@ -1,0 +1,32 @@
+
+COMP3311 W7 Tutorial
+===========================================================
+
+Notices
+-------
+
+- Quiz 4 due Friday 9pm
+
+Assignment 1
+--------------
+
+- marking done
+    - email me if there are any issues
+    - if you see a small error in your code that you lost a lot of marks for,
+      i can take another look
+
+Assignment 2
+--------------
+
+- will be out soon
+- on python/psycopg2
+    - do Prac08 for some practice
+    - jas is writing another prac
+- will cover in tute next week
+
+Today
+------
+
+- assertions
+- triggers
+- aggregates

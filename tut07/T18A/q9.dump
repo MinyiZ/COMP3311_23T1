@@ -1,0 +1,17 @@
+create table Department (
+    name text primary key,
+    numEmployees integer
+);
+
+create table Emp (
+    empname text,
+    department text references Department(name),
+    salary int,
+    last_date timestamp,
+    last_usr text
+);
+
+create table Audit (
+    last_date timestamp,
+    last_usr text
+);
