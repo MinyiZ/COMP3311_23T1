@@ -1,0 +1,16 @@
+
+COMP3311 W10 Tutorial
+===========================================================
+
+Notices
+-------
+
+- exam Monday 1 May in the CSE Labs
+    - more exam info: https://webcms3.cse.unsw.edu.au/COMP3311/23T1/resources/82734
+- sample exam + past exams available
+
+Today
+------
+
+relational algebra
+transactions
